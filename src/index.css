@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header--title{
+    margin: 0;
+    color: white;
+    background-color: #F55A5A;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.map_link{
+    color: #918E9B;
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+.card{
+    margin-top: 40px;
+    margin-left: 30px;
+    align-items: center;
+    display: flex;
+
+}
+
+.card--image{
+    width: 40%;
+    border-radius: 9px;
+    margin-bottom: 9px;
+}
+
+.card--stats{
+    display: inline-block;
+    margin-left: 20px;
+}
+
